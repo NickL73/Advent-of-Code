@@ -4,6 +4,8 @@ This repository holds my Advent of Code solution attempts. I did the challenge
 for real for the first time starting in 2023, but may go back to previous years'
 challenges and attempt some solutions for those as well.
 
+The linked solutions below are the ones that initially passed each puzzle, and may be rough, difficult to read, and inefficient. Future improvements and optimizations may be added to the folder, but the links provided in this table are my initial raw solutions.
+
 :star: - Indicates both parts of challenge completed with solutions.
 
 :snowflake: - Indicated only first part of the challenge has a solution.
