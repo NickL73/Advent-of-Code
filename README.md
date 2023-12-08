@@ -8,7 +8,7 @@ challenges and attempt some solutions for those as well.
 
 | | | | | |
 |-|-|-|-|-|
-|** <br />|**|**|**|**|
+|** <br /> [Python](2023/day_1/day1.py)|**|**|**|**|
 |**|**|**|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
