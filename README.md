@@ -8,8 +8,8 @@ challenges and attempt some solutions for those as well.
 
 | | | | | |
 |-|-|-|-|-|
-|**|**|**|**|**|
-|**|**|x|x|x|
+|** <br />|**|**|**|**|
+|**|**|**|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
