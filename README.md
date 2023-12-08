@@ -29,7 +29,7 @@ challenges and attempt some solutions for those as well.
 | | | | | |
 |-|-|-|-|-|
 |x|x|x|x|x|
-|x||xx|x|x|
+|x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
@@ -39,7 +39,7 @@ challenges and attempt some solutions for those as well.
 | | | | | |
 |-|-|-|-|-|
 |x|x|x|x|x|
-|x||xx|x|x|
+|x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
@@ -49,7 +49,7 @@ challenges and attempt some solutions for those as well.
 | | | | | |
 |-|-|-|-|-|
 |x|x|x|x|x|
-|x||xx|x|x|
+|x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
@@ -59,7 +59,7 @@ challenges and attempt some solutions for those as well.
 | | | | | |
 |-|-|-|-|-|
 |x|x|x|x|x|
-|x||xx|x|x|
+|x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
@@ -69,7 +69,7 @@ challenges and attempt some solutions for those as well.
 | | | | | |
 |-|-|-|-|-|
 |**|x|x|x|x|
-|x||xx|x|x|
+|x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
@@ -79,7 +79,7 @@ challenges and attempt some solutions for those as well.
 | | | | | |
 |-|-|-|-|-|
 |x|x|x|x|x|
-|x||xx|x|x|
+|x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
@@ -89,7 +89,7 @@ challenges and attempt some solutions for those as well.
 | | | | | |
 |-|-|-|-|-|
 |x|x|x|x|x|
-|x||xx|x|x|
+|x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
 |x|x|x|x|x|
