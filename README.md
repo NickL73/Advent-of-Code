@@ -10,6 +10,20 @@ The linked solutions below are the ones that initially passed each puzzle, and m
 
 :snowflake: - Indicated only first part of the challenge has a solution.
 
+## 2021
+
+<center>
+
+| | | | | |
+|:-:|:-:|:-:|:-:|:-:|
+|Day 1 :star: <br /> [Python](2024/day_1/day1.py)|Day 2|Day 3|Day 4|Day 5|
+|Day 6|Day 7|Day 8|Day 9|Day 10|
+|Day 11|Day 12|Day 13|Day 14|Day 15|
+|Day 16|Day 17|Day 18|Day 19|Day 20|
+|Day 21|Day 22|Day 23|Day 24|Day 25|
+
+</center>
+
 ## 2023
 
 **Stars**: 22/50
