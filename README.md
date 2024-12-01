@@ -10,7 +10,9 @@ The linked solutions below are the ones that initially passed each puzzle, and m
 
 :snowflake: - Indicated only first part of the challenge has a solution.
 
-## 2021
+## 2024
+
+**Stars:** 2/50
 
 <center>
 
@@ -111,6 +113,8 @@ The linked solutions below are the ones that initially passed each puzzle, and m
 </center>
 
 ## 2017
+
+**Stars:** 2/50
 
 <center>
 
