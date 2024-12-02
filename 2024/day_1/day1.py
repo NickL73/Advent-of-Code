@@ -6,7 +6,7 @@ import collections
 def day1(input_file):
     part_1 = 0
     part_2 = 0
-    
+
     with open(input_file, "r") as in_file:
         text = ' '.join(in_file.read().splitlines())
     
@@ -24,4 +24,4 @@ def day1(input_file):
     print(f"Part 1: {part_1} --- Part 2: {part_2}")
 
 if __name__ == "__main__":
-    res = day1(sys.argv[1])
+    day1(sys.argv[1])
