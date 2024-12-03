@@ -8,10 +8,19 @@ def day3(input_file):
     part2 = 0
     with open(input_file, 'r') as in_file:
         text = in_file.read()
-    
-    matches = re.findall(r'mul\(\d{1,3},\d{1,3}\)', text)
-    for match in matches:
-        part1 += math.prod([int(num) for num in re.findall(r'\d{1,3}', match)])
+
+    enabled = True
+    matches = re.finditer(r"do(?!n't)|don't|mul\(\d{1,3},\d{1,3}\)", text)
+    for substr in matches:
+            pre = substr.group()
+            if re.match(r"^mul", pre):
+                 value = math.prod([int(num) for num in re.findall(r'\d{1,3}', pre)])
+                 part1 += value
+                 part2 += value if enabled else 0
+            elif "do" == pre:
+                 enabled = True
+            else:
+                 enabled = False
 
     print(f"Part 1: {part1} --- Part 2: {part2}")
 
